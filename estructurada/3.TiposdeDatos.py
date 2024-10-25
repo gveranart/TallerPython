@@ -37,3 +37,5 @@ if _name_ == '_main_':
     print("\nIterando sobre el rango:")
     for numero in rango:
         print(numero)
+        print(numero)
+        print(numero)
